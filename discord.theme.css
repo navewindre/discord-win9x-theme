@@ -7,7 +7,7 @@
   --brand-experiment: #800080;
   --scrollbar-auto-thumb: #c0c0c0 !important;
   --scrollbar-thin-track: #c0c0c0 !important;
-  --font-primary: 'MS Sans Serif', 'Tahoma' !important
+  --font-primary: "MS Sans Serif", "Tahoma" !important
 }
 
 body, div {
@@ -162,12 +162,12 @@ foreignObject {
 }
 .title-17SveM {
     margin: 0 0px 0 0;
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
 }
 .name-3Uvkvr {
     font-size: 14px;
     line-height: 20px;
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
 }
 .topic-11NuQZ {
     margin: 0 0 0 0px;
@@ -178,7 +178,7 @@ foreignObject {
     font-size: 12px;
     line-height: 18px;
     color: #000000;
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
 }
 
 .typing-2J1mQU .text-3S7XCz {
@@ -209,7 +209,7 @@ foreignObject {
     color: #000000;
     background-color: #ffffff;
     border: 1px solid black;
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
 }
 /* sidebar */
  
@@ -339,7 +339,7 @@ foreignObject {
     line-height: 16px;
     font-weight: 600;
     color: #000000;
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
 }
 .name-28HaxV {
     font-size: 12px;
@@ -349,7 +349,7 @@ foreignObject {
     -webkit-box-flex: 1;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    font-family: Segoe UI;
+    font-family: "MS Sans Serif";
     text-transform: uppercase;
 }
 .unread-36eUEm {
@@ -399,7 +399,7 @@ foreignObject {
     border-top-color: #e2e2e2;
     border-left-color: #d2d2d2;
 }
-.layout-1qmrhw {
+.layout-1qmrhw, .layout-1LjVue {
     border-radius: 0px;
     height: 20px;
     padding: 0 0px;
@@ -409,19 +409,32 @@ foreignObject {
     width: 16px !important;
     height: 16px !important;
 }
-.avatar-6qzftW {
+
+.avatar-1HDIsL .wrapper-1VLyxH {
+    width: 16px !important;
+    height: 16px !important;
+}
+
+.avatar-6qzftW, .avatar-1HDIsL {
     width: 23px;
     height: 33px;
     margin-right: 0px;
 }
-.name-3Vmqxm {
+
+.closeButton-mupH76 {
+  opacity: 1;
+  margin: 0;
+  padding-right: 0;
+}
+
+.name-3Vmqxm, .name-2m3Cms {
     font-size: 12px;
     line-height: 12px;
     font-weight: 500;
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
     text-transform: uppercase;
 }
-.subText-OGOWMj {
+.subText-OGOWMj, .subText-3Sk0zy {
     display: none;
 }
 .offline-22aM7E {
@@ -485,7 +498,7 @@ background: transparent;
     display: none;
 }
 .embedTitle-2n1pEb {
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
 }
 .compact-2Nkcau.wrapper-30-Nkg {
     padding-left: 4px;
@@ -507,7 +520,7 @@ background: transparent;
  font-size: 12px;
 }
 .username-h_Y3Us {
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
     font-size: 12px;
     text-transform: uppercase;
 }
@@ -515,7 +528,7 @@ background: transparent;
     font-size: 9px;
     color: #000000;
     text-indent: 0;
-    font-family: "Courier New";
+    font-family: "MS Sans Serif";
 }
 .embedMargin-2PsaQ4 {
     margin-top: 0px;
@@ -687,9 +700,11 @@ background: transparent;
     border-right-color: #464646;
     border-bottom-color: #808080;
 }
+
 .scroller-WSmht3 {
     background-color: #a7a7a7;
 }
+
 .searchBar-3TnChZ .searchBarComponent-3N7dCG {
     width: 100%;
     height: 22px;
@@ -705,13 +720,14 @@ background: transparent;
 }
 
 .peopleColumn-1wMU14 {
-background: #c0c0c0 !important;
+    background: #c0c0c0 !important;
 }
 
 .selected-1-Z6gm .layout-1qmrhw {
     background-color: rgb(43, 43, 43);
     color: white;
 }
+
 .scrollbar {
     border-radius:0px;
 }
