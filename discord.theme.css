@@ -14,6 +14,10 @@ body, div {
 	text-rendering: optimizeSpeed !important;
 }
 
+.headerContent-2SNbie {
+    margin-top: -10px;
+}
+
 #bd-pub-li {
     display: none;
 }
@@ -21,7 +25,7 @@ body, div {
 .avatarWrapper-eenWra {
     top: 16px !important;
 }
-
+.avatar-1HDIsL > .wrapper-1VLyxH > .mask-1FEkla,
 .avatar-6qzftW > .wrapper-1VLyxH > .mask-1FEkla {
     height: 20px;
     width: 20px;
