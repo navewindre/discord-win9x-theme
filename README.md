@@ -1,7 +1,7 @@
 # discord-win9x-theme
 discord win32/win9x theme.
 
-original by [kamuisuki on deviantart](https://www.deviantart.com/kamuisuki/art/Discord-Classic-theme-864498364)
+original by [kamuisuki on deviantart](https://www.deviantart.com/kamuisuki)
 
 updated for the current discord version with many missing elements themed.
 
