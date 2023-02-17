@@ -159,6 +159,7 @@ foreignObject {
 .platform-win .sidebar-1tnWFu {
     border-radius: 0px 0 0;
 }
+
 .header-3OsQeK {
     height: 28px;
 }
@@ -312,7 +313,25 @@ foreignObject {
 .base-2jDfDU {
 	left: 0;
 }
+
+.tree-3agP2X, .wrapper-1_HaEi, .guilds-2JjMmN, .scroller-3X7KbA {
+  background: #adadad !important;
+}
+
+.panel-2ZFCRb, .container-YkUktl {
+  background: #adadad !important;
+}
+
+.interactive-26HRN_ {
+  background: rgb( 216, 216, 216 );
+}
+
+.scroller-WSmht3, .scroller-1ox3I2 {
+  background: #bdbdbd !important;
+}
+
 .sidebar-1tnWFu {
+  background-color: #adadad;
     border-right: 1px solid #252525;
     width: 250px;
 }
