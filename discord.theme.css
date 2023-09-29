@@ -98,7 +98,7 @@ foreignObject {
     border-right: 2px solid #464646;
 }
  
-.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr {
+.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ {
     background: linear-gradient(45deg, #800080, #388cb0);
 }
  
@@ -252,6 +252,11 @@ foreignObject {
 
 .listItem-3SmSlK {
 	width: inherit !important;
+}
+
+.wrapper-2PSQCG {
+  width: 36px;
+  height: 36px;
 }
  
 .listItem-2P_4kh {
@@ -442,7 +447,23 @@ foreignObject {
     height: 16px !important;
 }
 
-.avatar-1HDIsL .wrapper-1VLyxH {
+.wrapper-3kah-n {
+  width: 36px;
+  height: 36px;
+}
+
+.icon-3AqZ2e {
+  width: 32px;
+  height: 32px;
+}
+
+.svg-1G_H_8 {
+  width: 18px !important;
+  height: 18px !important;
+  
+}
+
+.avatar-1HDIsL .wrapper-3Un6-K {
     width: 16px !important;
     height: 16px !important;
 }
